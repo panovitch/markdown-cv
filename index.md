@@ -1,91 +1,49 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Aleksey Panopv's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Aleksey Panov
+Lead Software Engineer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="panov@hey.com">panov@hey.com</a>
+| <a href="https://www.linkedin.com/in/aleksey-panov-44603880/">LinkedIn</a>
+| <a href="https://github.com/panovitch">Github</a>
 </div>
 
+## Interested in
 
-## Currently
+Software Engineering and Engineering Leadership positions
 
-Standing on the shoulders of giants
+## Skills and competences
 
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+- Technical leadership and planning & various agile development methodologies
+- Python in all its forms, especially web frameworks: Django/Rest Framework, Tornado, Aiohttp
+- SQL and database design
+- Leveraging modern cloud solutions for Distributed computing, Scalable deployments, and more
+- Cloud system administration with AWS, Terraform, Docker, Container orchestration
+- Javascript and NodeJS, with some frontend experience with AngularJS and React
+- managing CI/CD pipelines
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2010-2015`
+__Moscow State Institute of Radio Engineering, Electronics and Automation__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+## Professional Experience
 
-- Sizar
+`Sep 2018 - Present`
+__Lead Backend Engineer, STITCH 3D, Amsterdam__
 
-`1667 - death`
-__Trinity College, Cambridge__
+I'm leading the backend development and dev-ops team at STITCH, a satellite startup by PVH with the ambitious goal to digitize the way fashion designers work.
 
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+I have worked at the team since very early stages of the project, and among many other things, accomplished the following:
+- Led development of multiple REST backends using Django, working on both greenfield projects and existing codebases, in tight collaboration with a Frontend team and a Product Manager
+- Designed and Implemented the deployment architecture using AWS, including scalable application infrastructure using container orchestration, various storage and database solutions, CI/CD pipeline and more; all managed as IaC using Terraform
+- Fostered a solid engineering culture by setting development standards and practices (code reviews, postmortems, kanban), developing the engineering manifesto of STITCH, and setting team goals
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Nov 2020 -->
 
 
